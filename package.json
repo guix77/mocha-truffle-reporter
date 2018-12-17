@@ -1,0 +1,12 @@
+{
+  "name": "mocha-truffle-reporter",
+  "version": "1.0.0",
+  "description": "Mocha reporter for Truffle testing, with gas used and optionally prices in fiat",
+  "main": "lib/reporters/truffle-cost.js",
+  "repository": "https://github.com/guix77/mocha-truffle-reporter",
+  "author": "Guillaume Duveau <guillaume.duveau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
